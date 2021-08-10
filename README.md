@@ -4,7 +4,7 @@ Didn't see you there. Come in come in! Help yourself to some snacks 🍰; feel f
 Now that you're all settled in, would you like a tour of my profile? Let's go! 😄
 
 ## my current project ⭐
-[reZIDE][rezide] 
+[reZIDE][rezide]: a comfy custom IDE where you can feel right at home :house_with_garden:
 
 ## my setup 🖥️
 I love customizing my computer setup. I'm always learning about new tools and [browsing the internet for inspiration](https://reddit.com/r/unixporn).
