@@ -7,8 +7,11 @@ Now that you're all settled in, would you like a tour of my profile?
 
 Yeah? OK, let's go! 😄
 
-## My current project ⭐
-[reZIDE][rezide]: a comfy custom IDE where you can feel right at home :house_with_garden:
+## My current project(s) ⭐
+### reZIDE 
+a comfy custom IDE where you can feel right at home :house_with_garden:
+[![reZIDE screencap][rezide_screencap_gif]][rezide]
+
 
 ## My setup 🖥️
 I love customizing my computer setup. I'm always learning about new tools and [browsing the internet for inspiration](https://reddit.com/r/unixporn).
@@ -25,6 +28,11 @@ If you'd like to see some of the things that make my setup look cool:
 * [reZIDE: creating automatic IDE-like environments][rezide]
 
 
+[rezide]: https://github.com/abstractlyZach/reZIDE
+[dotfiles]: https://github.com/abstractlyZach/dotfiles
+[utils]: https://github.com/abstractlyZach/utils
+[rezide_screencap_gif]: https://github.com/abstractlyZach/reZIDE/blob/main/docs/screencaps/rice.gif?raw=true
+
 <!--
 **abstractlyZach/abstractlyZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,7 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[rezide]: https://github.com/abstractlyZach/reZIDE
-[dotfiles]: https://github.com/abstractlyZach/dotfiles
-[utils]: https://github.com/abstractlyZach/utils
