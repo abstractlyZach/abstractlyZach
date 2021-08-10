@@ -7,7 +7,7 @@ Now that you're all settled in, would you like a tour of my profile? Let's go! �
 [reZIDE][rezide] 
 
 ## my setup 🖥️
-I love customizing my computer setup. I'm always learning about new tools and [browsing the internet for inspiration](reddit.com/r/unixporn).
+I love customizing my computer setup. I'm always learning about new tools and [browsing the internet for inspiration](https://reddit.com/r/unixporn).
 
 Here are some screenshots of my current setup:
 ![empty desktop](data/empty_desktop.png)
