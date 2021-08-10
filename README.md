@@ -10,9 +10,9 @@ Now that you're all settled in, would you like a tour of my profile? Let's go! ð
 I love customizing my computer setup. I'm always learning about new tools and [browsing the internet for inspiration](reddit.com/r/unixporn).
 
 Here are some screenshots of my current setup:
-![empty desktop](empty_desktop.png)
-![reZIDE IDE](rezide_ide.png)
-![python IDE](python_ide.png)
+![empty desktop](data/empty_desktop.png)
+![reZIDE IDE](data/rezide_ide.png)
+![python IDE](data/python_ide.png)
 
 
 If you'd like to see some of the things that make my setup look cool:
