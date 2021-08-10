@@ -1,12 +1,16 @@
 ## Oh hi 👋
-Didn't see you there. Come in come in! Help yourself to some snacks 🍰; feel free to pet my dog 🐕. His name is Zach Jr.
+Didn't see you there. Come in come in! 
 
-Now that you're all settled in, would you like a tour of my profile? Let's go! 😄
+Help yourself to some snacks 🍰; feel free to pet my dog 🐕. His name is Zach Jr.
 
-## my current project ⭐
+Now that you're all settled in, would you like a tour of my profile? 
+
+Yeah? OK, let's go! 😄
+
+## My current project ⭐
 [reZIDE][rezide]: a comfy custom IDE where you can feel right at home :house_with_garden:
 
-## my setup 🖥️
+## My setup 🖥️
 I love customizing my computer setup. I'm always learning about new tools and [browsing the internet for inspiration](https://reddit.com/r/unixporn).
 
 Here are some screenshots of my current setup:
@@ -18,7 +22,7 @@ Here are some screenshots of my current setup:
 If you'd like to see some of the things that make my setup look cool:
 * [dotfiles][dotfiles]
 * [my utility scripts][utils]
-* [creating automatic IDE-like environments][rezide]
+* [reZIDE: creating automatic IDE-like environments][rezide]
 
 
 <!--
